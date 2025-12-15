@@ -3,27 +3,24 @@
 Hey Everyone 👋, I'm Precious Ifeanyi
 </h1>
 
-<!-- <div align="center">
-  <img src="https://" alt="banner">
-</div> -->
+---
 
 <h3 align="center">A DevOps enthusiast from Nigeria with a strong interest in building, automating, and managing cloud infrastructure using modern DevOps tools. </h3>
 
 <p align="center">
-  <a href="https://github.com/ceekhayy">
-  </a>
-  <a href="https://https://medium.com/@preciousife01">
-  </a>
+  <a href="https://github.com/ceekhayy" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ceekhayy-black?logo=github&style=for-the-badge" alt="GitHub" />
+</a>
+
+  <a href="https://medium.com/@preciousife01" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-@preciousife01-black?logo=medium&style=for-the-badge" alt="Medium" />
+</a>
+
   <a href="https://www.linkedin.com/in/precious-ifeanyi-b695b5175/">
     <img src="https://img.shields.io/badge/LinkedIn-Precious%20Ifeanyi-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<!-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/ceekhayy/](https://github.com/ceekhayy/)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
@@ -81,10 +78,8 @@ Hey Everyone 👋, I'm Precious Ifeanyi
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)-->
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
